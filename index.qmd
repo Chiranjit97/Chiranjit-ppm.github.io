@@ -1,8 +1,8 @@
 ---
 title: "Chiranjit Das"
-image: img/profile.jpg
 about:
-  template: trestles
+  template: jolla
+  image: img/Profile.jpeg
   image-shape: round
   links:
     - icon: envelope
@@ -13,7 +13,7 @@ about:
       href: https://scholar.google.com
     - icon: github
       text: GitHub
-      href: https://github.com/
+      href: https://github.com/Chiranjit97
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
@@ -30,4 +30,3 @@ I am an independent researcher working on **remote sensing and inversion methodo
 - Regional-scale dynamics of greenhouse gases (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O)
 - Carbon-climate interactions
 
-See the [Research](research.qmd) page for more on current projects and methods, or [Publications](publications.qmd) for my work.

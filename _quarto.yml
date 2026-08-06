@@ -1,5 +1,5 @@
 project:
-  title: "Chiranjitenv"
+  type: website
   output-dir: docs
   
 website:
