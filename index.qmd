@@ -10,13 +10,13 @@ about:
       href: mailto:chiranjitmet@gmail.com
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=mrRinzAAAAAJ&hl=en
     - icon: github
       text: GitHub
       href: https://github.com/Chiranjit97
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/chiranjit-das-ppm
 ---
 
 ## About

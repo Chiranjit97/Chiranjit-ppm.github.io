@@ -1,9 +1,0 @@
----
-title: "Chiranjitenv"
----
-
-Abiut this site
-
-```{r}
-1 + 1
-```

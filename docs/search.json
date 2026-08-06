@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Chiranjit Das",
@@ -21,20 +28,6 @@
     "text": "Research Interests\n\nCarbon cycle processes\nGlobal warming and its interlinkages\nRegional-scale dynamics of greenhouse gases (CO2, CH4, N2O)\nCarbon-climate interactions"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: chiranjitmet@gmail.com\nGoogle Scholar: scholar.google.com\nGitHub: github.com\nLinkedIn: linkedin.com\nFeel free to reach out about collaborations, data, or questions related to remote sensing, carbon cycle science, or greenhouse gas inversion methods."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -47,6 +40,13 @@
     "title": "Research",
     "section": "",
     "text": "My research focuses on quantifying and understanding CO2 fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.\n\n\nI use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO2 fluxes and constrain their spatial and temporal distribution.\nAdd details: instruments/datasets used (e.g., OCO-2, OCO-3, GOSAT, TROPOMI), inversion frameworks, and key findings.\n\n\n\nInvestigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.\n\n\n\nStudying the regional-scale distribution and variability of CO2, CH4, and N2O, and their links to land-use, emissions, and natural sink/source processes.\n\n\n\nExamining feedbacks between the carbon cycle and the climate system, and how these interactions shape projections of future warming.\n\nThis page is a placeholder — replace with specific projects, funding sources, collaborators, and figures as your work develops."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: chiranjitmet@gmail.com\nGoogle Scholar: scholar.google.com\nGitHub: github.com\nLinkedIn: linkedin.com\nFeel free to reach out about collaborations, data, or questions related to remote sensing, carbon cycle science, or greenhouse gas inversion methods."
   },
   {
     "objectID": "publications.html",
