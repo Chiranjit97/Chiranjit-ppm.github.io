@@ -17,5 +17,3 @@ tions to carbon flux variability in South Asia. Environmental Research Letters, 
 https://doi.org/10.1088/1748-9326/ae18e6
 
 ---
-
-*Replace the entries above with your actual publications, most recent first. You can also switch this page to a Quarto `listing` (like the Blog page) if you'd rather manage each publication as its own file.*

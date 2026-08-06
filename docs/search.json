@@ -25,21 +25,21 @@
     "href": "index.html#research-interests",
     "title": "Chiranjit Das",
     "section": "Research Interests",
-    "text": "Research Interests\n\nCarbon cycle processes\nGlobal warming and its interlinkages\nRegional-scale dynamics of greenhouse gases (CO2, CH4, N2O)\nCarbon-climate interactions"
+    "text": "Research Interests\nCarbon cycle processes Global warming and its interlinkages Regional-scale dynamics of greenhouse gases (CO2, CH4, N2O) Carbon-climate interactions"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on quantifying and understanding CO2 fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.\n\n\nI use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO2 fluxes and constrain their spatial and temporal distribution.\nAdd details: instruments/datasets used (e.g., OCO-2, OCO-3, GOSAT, TROPOMI), inversion frameworks, and key findings.\n\n\n\nInvestigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.\n\n\n\nStudying the regional-scale distribution and variability of CO2, CH4, and N2O, and their links to land-use, emissions, and natural sink/source processes.\n\n\n\nExamining feedbacks between the carbon cycle and the climate system, and how these interactions shape projections of future warming.\n\nThis page is a placeholder — replace with specific projects, funding sources, collaborators, and figures as your work develops."
+    "text": "My research focus on quantifying and understanding CO2 fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.\n\n\nI use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO2 fluxes and constrain their spatial and temporal distribution.\nAdd details: instruments/datasets used (e.g., OCO-2, OCO-3, GOSAT, TROPOMI), inversion frameworks, and key findings.\n\n\n\nInvestigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.\n\n\n\nStudying the regional-scale distribution and variability of CO2, CH4, and N2O, and their links to land-use, emissions, and natural sink/source processes.\n\n\n\nExamining feedbacks between the carbon cycle and the climate system, and how these interactions shape projections of future warming.\n\nThis page is a placeholder — replace with specific projects, funding sources, collaborators, and figures as your work develops."
   },
   {
     "objectID": "research.html#overview",
     "href": "research.html#overview",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on quantifying and understanding CO2 fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.\n\n\nI use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO2 fluxes and constrain their spatial and temporal distribution.\nAdd details: instruments/datasets used (e.g., OCO-2, OCO-3, GOSAT, TROPOMI), inversion frameworks, and key findings.\n\n\n\nInvestigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.\n\n\n\nStudying the regional-scale distribution and variability of CO2, CH4, and N2O, and their links to land-use, emissions, and natural sink/source processes.\n\n\n\nExamining feedbacks between the carbon cycle and the climate system, and how these interactions shape projections of future warming.\n\nThis page is a placeholder — replace with specific projects, funding sources, collaborators, and figures as your work develops."
+    "text": "My research focus on quantifying and understanding CO2 fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.\n\n\nI use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO2 fluxes and constrain their spatial and temporal distribution.\nAdd details: instruments/datasets used (e.g., OCO-2, OCO-3, GOSAT, TROPOMI), inversion frameworks, and key findings.\n\n\n\nInvestigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.\n\n\n\nStudying the regional-scale distribution and variability of CO2, CH4, and N2O, and their links to land-use, emissions, and natural sink/source processes.\n\n\n\nExamining feedbacks between the carbon cycle and the climate system, and how these interactions shape projections of future warming.\n\nThis page is a placeholder — replace with specific projects, funding sources, collaborators, and figures as your work develops."
   },
   {
     "objectID": "contact.html",
@@ -67,6 +67,6 @@
     "href": "publications.html#section-1",
     "title": "Publications",
     "section": "2025",
-    "text": "2025\n\nDas, C., Chatterjee, A., Kunchala, R. K., & Liu, J. (2025). Regional fire dynamics and its contribu- tions to carbon flux variability in South Asia. Environmental Research Letters, 19(4), Article 046005. https://doi.org/10.1088/1748-9326/ae18e6\n\n\nReplace the entries above with your actual publications, most recent first. You can also switch this page to a Quarto listing (like the Blog page) if you’d rather manage each publication as its own file."
+    "text": "2025\n\nDas, C., Chatterjee, A., Kunchala, R. K., & Liu, J. (2025). Regional fire dynamics and its contribu- tions to carbon flux variability in South Asia. Environmental Research Letters, 19(4), Article 046005. https://doi.org/10.1088/1748-9326/ae18e6"
   }
 ]
