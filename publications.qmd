@@ -22,5 +22,4 @@ title: "Publications"
 
 - Das, C., Kunchala, R. K., Chandra, N., Chmura, L., Necki, J., Patra, P. K. (2022). Meridional propagation of carbon dioxide (CO2) growth rate and flux anomalies from the tropics due to ENSO. Geophysical Research Letters, 49, e2022GL100105. https://doi.org/10.1029/2022GL100105
 
-
 ---
