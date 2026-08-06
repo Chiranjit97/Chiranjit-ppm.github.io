@@ -1,0 +1,41 @@
+project:
+  title: "Chiranjitenv"
+  output-dir: docs
+  
+website:
+  title: "Chiranjit Das"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: blog.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        href: mailto:chiranjitmet@gmail.com
+        aria-label: Email
+      - icon: google
+        href: https://scholar.google.com
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Chiranjit Das"
+    background: light
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    grid:
+      body-width: 850px

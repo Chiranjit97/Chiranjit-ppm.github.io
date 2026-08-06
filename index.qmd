@@ -1,0 +1,33 @@
+---
+title: "Chiranjit Das"
+image: img/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:chiranjitmet@gmail.com
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+---
+
+## About
+
+I am an independent researcher working on **remote sensing and inversion methodologies** to understand the distribution of atmosphere-biosphere-ocean CO<sub>2</sub> fluxes. My work sits at the intersection of satellite observation, atmospheric modeling, and carbon cycle science, aiming to close gaps in how we observe and attribute greenhouse gas sources and sinks at regional and global scales.
+
+## Research Interests
+
+- Carbon cycle processes
+- Global warming and its interlinkages
+- Regional-scale dynamics of greenhouse gases (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O)
+- Carbon-climate interactions
+
+See the [Research](research.qmd) page for more on current projects and methods, or [Publications](publications.qmd) for my work.

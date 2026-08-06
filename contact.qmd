@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+**Email:** [chiranjitmet@gmail.com](mailto:chiranjitmet@gmail.com)
+
+**Google Scholar:** [scholar.google.com](https://scholar.google.com)
+
+**GitHub:** [github.com](https://github.com)
+
+**LinkedIn:** [linkedin.com](https://linkedin.com)
+
+Feel free to reach out about collaborations, data, or questions related to remote sensing, carbon cycle science, or greenhouse gas inversion methods.
