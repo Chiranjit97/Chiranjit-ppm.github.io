@@ -11,9 +11,6 @@ about:
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com/citations?user=mrRinzAAAAAJ&hl=en
-    - icon: github
-      text: GitHub
-      href: https://github.com/Chiranjit97
     - icon: linkedin
       text: LinkedIn
       href: www.linkedin.com/in/chiranjit-das-ppm
@@ -25,8 +22,10 @@ I am an independent researcher working on **remote sensing and inversion methodo
 
 ## Research Interests
 
-- Carbon cycle processes
-- Global warming and its interlinkages
-- Regional-scale dynamics of greenhouse gases (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O)
-- Carbon-climate interactions
+<ul style="padding-left: 12px;">
+  <li>Carbon cycle processes</li>
+  <li>Global warming and its interlinkages</li>
+  <li>Regional-scale dynamics of greenhouse gases (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O)</li>
+  <li>Carbon-climate interactions</li>
+</ul>
 

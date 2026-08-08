@@ -10,8 +10,6 @@ My research focus on quantifying and understanding CO<sub>2</sub> fluxes across 
 
 I use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO<sub>2</sub> fluxes and constrain their spatial and temporal distribution.
 
-*Add details: instruments/datasets used (e.g., OCO-2, OCO-3, GOSAT, TROPOMI), inversion frameworks, and key findings.*
-
 ### Carbon Cycle Processes
 
 Investigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.
