@@ -25,8 +25,8 @@ I am an independent researcher working on **remote sensing and inversion methodo
 
 ## Research Interests
 
-Carbon cycle processes
-Global warming and its interlinkages
-Regional-scale dynamics of greenhouse gases (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O)
-Carbon-climate interactions
+- Carbon cycle processes
+- Global warming and its interlinkages
+- Regional-scale dynamics of greenhouse gases (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O)
+- Carbon-climate interactions
 
