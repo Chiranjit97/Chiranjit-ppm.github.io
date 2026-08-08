@@ -2,11 +2,9 @@
 title: "Research"
 ---
 
-## Overview
-
 My research focus on quantifying and understanding CO<sub>2</sub> fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.
 
-### Remote Sensing & Inversion of CO2 Fluxes
+### Remote Sensing & Inversion of CO<sub>2</sub> Fluxes
 
 I use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO<sub>2</sub> fluxes and constrain their spatial and temporal distribution.
 

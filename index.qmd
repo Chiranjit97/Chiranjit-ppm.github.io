@@ -18,11 +18,11 @@ about:
 
 ## About
 
-I am an independent researcher working on **remote sensing and inversion methodologies** to understand the distribution of atmosphere-biosphere-ocean CO<sub>2</sub> fluxes. My work sits at the intersection of satellite observation, atmospheric modeling, and carbon cycle science, aiming to close gaps in how we observe and attribute greenhouse gas sources and sinks at regional and global scales.
+I am a postdoctoral researcher working on **remote sensing and inversion methodologies** to understand the distribution of atmosphere-biosphere-ocean CO<sub>2</sub> fluxes. My work sits at the intersection of satellite observation, atmospheric modeling, and carbon cycle science, aiming to close gaps in how we observe and attribute greenhouse gas sources and sinks at regional and global scales.
 
 ## Research Interests
 
-<ul style="padding-left: 12px;">
+<ul style="padding-left: 5px;">
   <li>Carbon cycle processes</li>
   <li>Global warming and its interlinkages</li>
   <li>Regional-scale dynamics of greenhouse gases (CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O)</li>

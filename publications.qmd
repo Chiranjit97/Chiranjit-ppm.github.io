@@ -14,6 +14,8 @@ title: "Publications"
 
 - Das, C., Kunchala, R. K., Patra, P. K., Chandra, N., Ishijima, K., & Machida, T. (2025). An assessment of CO2 transport model simulations using surface, aircraft and satellite data (2015–2021). Atmospheric Environment. https://doi.org/10.1016/j.atmosenv.2025.121754
 
+- Das, C., Patra, P. K., & Kunchala, R. K. (2025). An overview of atmospheric carbon dioxide and global warming interlinks. Elsevier, Sustainable Development Perspectives in Earth Observation. https://doi.org/10.1016/B978-0-443-14072-3.00016-2
+
 ## 2023
 
 - Das, C., Kunchala, R. K., Chandra, N., Chhabra, A., & Pandya, M. R. (2023). Characterising the regional XCO2 variability and its association with ENSO over India inferred from GOSAT and OCO-2. Science of the Total Environment, 166176. https://doi.org/10.1016/j.scitotenv.2023.166176
