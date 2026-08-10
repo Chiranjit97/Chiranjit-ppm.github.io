@@ -1,5 +1,11 @@
 ---
 title: "Chiranjit Das"
+---
+
+**postdoctoral Researcher**  
+Laboratoire des Sciences du Climat et de l'Environnement (LSCE)  
+Université Paris-Saclay, France
+
 about:
   template: jolla
   image: img/Profile.jpeg
@@ -18,7 +24,7 @@ about:
 
 ## About
 
-I am a postdoctoral researcher working on **remote sensing and inversion methodologies** to understand the distribution of GHG fluxes across spheres. My work sits at the intersection of satellite observation, atmospheric modeling, and carbon cycle science, aiming to close gaps in how we observe and attribute greenhouse gas sources and sinks at regional and global scales.
+I am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l'Environnement (LSCE). My interests are in **remote sensing and inversion methodologies** to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales.
 
 ## Research Interests
 
