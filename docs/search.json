@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Chiranjit Das",
     "section": "",
-    "text": "postdoctoral Researcher\nLaboratoire des Sciences du Climat et de l’Environnement (LSCE)\nUniversité Paris-Saclay, France\nabout: template: jolla image: img/Profile.jpeg image-shape: round links: - icon: envelope text: Email href: mailto:chiranjitmet@gmail.com - icon: google text: Google Scholar href: https://scholar.google.com/citations?user=mrRinzAAAAAJ&hl=en - icon: linkedin text: LinkedIn href: www.linkedin.com/in/chiranjit-das-ppm —"
+    "text": "I am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE). My interests are in remote sensing and inversion methodologies to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Chiranjit Das",
-    "section": "About",
-    "text": "About\nI am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE). My interests are in remote sensing and inversion methodologies to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales."
+    "section": "",
+    "text": "I am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE). My interests are in remote sensing and inversion methodologies to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales."
   },
   {
     "objectID": "index.html#research-interests",

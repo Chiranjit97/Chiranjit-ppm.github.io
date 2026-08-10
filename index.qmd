@@ -1,10 +1,5 @@
 ---
 title: "Chiranjit Das"
----
-
-**postdoctoral Researcher**  
-Laboratoire des Sciences du Climat et de l'Environnement (LSCE)  
-Université Paris-Saclay, France
 
 about:
   template: jolla
