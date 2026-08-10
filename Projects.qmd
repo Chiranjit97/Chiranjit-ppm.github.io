@@ -2,11 +2,14 @@
 title: "Projects"
 ---
 
-### Spatial Mapping and Identification of CO2 Sources over the NEOM Region Using Satellite Observations
-**Funding:** King Abdullah University of Science and Technology (KAUST)
-
 ### Impacts of Fire on Atmospheric CO2 and Surface Carbon Fluxes over South Asia
 **Funding:** United States–India Educational Foundation (USIEF)
 
+### Spatial Mapping and Identification of CO2 Sources over the NEOM Region Using Satellite Observations
+**Funding:** King Abdullah University of Science and Technology (KAUST)
+
 ### CO2 Variability over South Asia and the Global Tropics
 **Funding:** Indian Institute of Technology Delhi (IIT Delhi)
+
+### Effects of atmospheric aerosols on heat stress over South Asia.
+**Funding:** Indian Academy of Sciences (IAS)

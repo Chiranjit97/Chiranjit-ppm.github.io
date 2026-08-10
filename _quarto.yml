@@ -25,9 +25,6 @@ website:
       - icon: google
         href: https://scholar.google.com
         aria-label: Google Scholar
-      - icon: github
-        href: https://github.com/
-        aria-label: GitHub
   page-footer:
     center: "© 2026 Chiranjit Das"
     background: light
