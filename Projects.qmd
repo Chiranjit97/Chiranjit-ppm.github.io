@@ -13,3 +13,6 @@ title: "Projects"
 
 ### Effects of atmospheric aerosols on heat stress over South Asia.
 **Funding:** Indian Academy of Sciences (IAS)
+
+### Artificial weather modification over India
+**Funding:** V.V. Biotech Pvt. Ltd.
