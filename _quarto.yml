@@ -16,7 +16,7 @@ website:
         text: Blog
       - href: contact.qmd
         text: Contact
-      - href: projects.qmd
+      - href: Projects.qmd
         text: Projects
     right:
       - icon: envelope
