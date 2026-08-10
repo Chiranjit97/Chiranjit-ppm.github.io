@@ -2,12 +2,17 @@
 title: "Contact"
 ---
 
-**Email:** [chiranjitmet@gmail.com](mailto:chiranjitmet@gmail.com)
+## Contact
 
-**Google Scholar:** [scholar.google.com](https://scholar.google.com)
+- **Email:** <a href="mailto:chiranjitmet@gmail.com">chiranjitmet@gmail.com</a>
+- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=mrRinzAAAAAJ&hl=en)
+- **LinkedIn:** [Chiranjit Das](https://www.linkedin.com/in/chiranjit-das-ppm)
 
-**GitHub:** [github.com](https://github.com)
+## Office
 
-**LinkedIn:** [linkedin.com](https://linkedin.com)
+Laboratoire des Sciences du Climat et de l'Environnement (LSCE)  
+L'Orme des Merisiers, Bâtiment 714  
+91191 Gif-sur-Yvette Cedex  
+France
 
 Feel free to reach out about collaborations, data, or questions related to remote sensing, carbon cycle science, or greenhouse gas inversion methods.
