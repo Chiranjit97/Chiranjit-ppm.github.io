@@ -16,6 +16,8 @@ website:
         text: Blog
       - href: contact.qmd
         text: Contact
+      - href: projects.qmd
+        text: Projects
     right:
       - icon: envelope
         href: mailto:chiranjitmet@gmail.com
