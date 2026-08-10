@@ -2,9 +2,7 @@
 title: "Contact"
 ---
 
-## Contact
-
-- **Email:** <a href="mailto:chiranjitmet@gmail.com">chiranjitmet@gmail.com</a>
+- **Email:** <a href="mailto:iamchiranjitd@gmail.com">iamchiranjitd@gmail.com</a>
 - **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=mrRinzAAAAAJ&hl=en)
 - **LinkedIn:** [Chiranjit Das](https://www.linkedin.com/in/chiranjit-das-ppm)
 
