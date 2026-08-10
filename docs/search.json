@@ -7,55 +7,6 @@
     "text": "No matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chiranjit Das",
-    "section": "",
-    "text": "I am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE). My interests are in remote sensing and inversion methodologies to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Chiranjit Das",
-    "section": "",
-    "text": "I am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE). My interests are in remote sensing and inversion methodologies to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Chiranjit Das",
-    "section": "Research Interests",
-    "text": "Research Interests\n\n\nCarbon cycle processes\n\n\nGlobal warming and its interlinkages\n\n\nRegional-scale dynamics of greenhouse gases (CO2, CH4, N2O)\n\n\nCarbon-climate interactions"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: iamchiranjitd@gmail.com\nGoogle Scholar: Google Scholar\nLinkedIn: Chiranjit Das"
-  },
-  {
-    "objectID": "contact.html#office",
-    "href": "contact.html#office",
-    "title": "Contact",
-    "section": "Office",
-    "text": "Office\nLaboratoire des Sciences du Climat et de l’Environnement (LSCE)\nL’Orme des Merisiers, Bâtiment 714\n91191 Gif-sur-Yvette Cedex\nFrance\nFeel free to reach out about collaborations, data, or questions related to remote sensing, carbon cycle science, or greenhouse gas inversion methods."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research focus on quantifying and understanding CO2 fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.\n\nRemote Sensing & Inversion of CO2 Fluxes\nI use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO2 fluxes and constrain their spatial and temporal distribution.\n\n\nCarbon Cycle Processes\nInvestigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.\n\n\nGreenhouse Gas Dynamics at Regional Scales\nStudying the regional-scale distribution and variability of CO2, CH4, and N2O, and their links to land-use, emissions, and natural sink/source processes.\n\n\nCarbon-Climate Interactions & Global Warming\nExamining feedbacks between the carbon cycle and the climate system, and how these interactions shape projections of future warming."
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "1. Impacts of Fire on Atmospheric CO2 and Surface Carbon Fluxes over South Asia\nFunding: United States–India Educational Foundation (USIEF)\n\n\n2. Spatial Mapping and Identification of CO2 Sources over the NEOM Region Using Satellite Observations\nFunding: King Abdullah University of Science and Technology (KAUST)\n\n\n3. CO2 Variability over South Asia and the Global Tropics\nFunding: Indian Institute of Technology Delhi (IIT Delhi)\n\n\n4. Effects of atmospheric aerosols on heat stress over South Asia.\nFunding: Indian Academy of Sciences (IAS)\n\n\n5. Artificial weather modification over India\nFunding: V.V. Biotech Pvt. Ltd."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -89,5 +40,54 @@
     "title": "Publications",
     "section": "2022",
     "text": "2022\n\nDas, C., Kunchala, R. K., Chandra, N., Chmura, L., Necki, J., Patra, P. K. (2022). Meridional propagation of carbon dioxide (CO2) growth rate and flux anomalies from the tropics due to ENSO. Geophysical Research Letters, 49, e2022GL100105. DOI: 10.1029/2022GL100105"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "1. Impacts of Fire on Atmospheric CO2 and Surface Carbon Fluxes over South Asia\nFunding: United States–India Educational Foundation (USIEF)\n\n\n2. Spatial Mapping and Identification of CO2 Sources over the NEOM Region Using Satellite Observations\nFunding: King Abdullah University of Science and Technology (KAUST)\n\n\n3. CO2 Variability over South Asia and the Global Tropics\nFunding: Indian Institute of Technology Delhi (IIT Delhi)\n\n\n4. Effects of atmospheric aerosols on heat stress over South Asia.\nFunding: Indian Academy of Sciences (IAS)\n\n\n5. Artificial weather modification over India\nFunding: V.V. Biotech Pvt. Ltd."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focus on quantifying and understanding CO2 fluxes across the atmosphere-biosphere-ocean system, combining satellite remote sensing with inverse modeling techniques.\n\nRemote Sensing & Inversion of CO2 Fluxes\nI use satellite-derived trace gas retrievals together with atmospheric transport and inversion frameworks to estimate surface CO2 fluxes and constrain their spatial and temporal distribution.\n\n\nCarbon Cycle Processes\nInvestigating the drivers of terrestrial and oceanic carbon uptake and release, and how these processes respond to climate variability.\n\n\nGreenhouse Gas Dynamics at Regional Scales\nStudying the regional-scale distribution and variability of CO2, CH4, and N2O, and their links to land-use, emissions, and natural sink/source processes.\n\n\nCarbon-Climate Interactions & Global Warming\nExamining feedbacks between the carbon cycle and the climate system, and how these interactions shape projections of future warming."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: iamchiranjitd@gmail.com\nGoogle Scholar: Google Scholar\nLinkedIn: Chiranjit Das"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\nLaboratoire des Sciences du Climat et de l’Environnement (LSCE)\nL’Orme des Merisiers, Bâtiment 714\n91191 Gif-sur-Yvette Cedex\nFrance\nFeel free to reach out about collaborations, data, or questions related to remote sensing, carbon cycle science, or greenhouse gas inversion methods."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chiranjit Das",
+    "section": "",
+    "text": "I am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE). My interests are in remote sensing and inversion methodologies to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Chiranjit Das",
+    "section": "",
+    "text": "I am a postdoctoral researcher at the Laboratoire des Sciences du Climat et de l’Environnement (LSCE). My interests are in remote sensing and inversion methodologies to understand the distribution of GHG fluxes across spheres. It sits at the intersection of satellite observation, atmospheric modeling, and GHG cycle science, aiming to close gaps in how we observe and attribute GHG sources and sinks at regional and global scales."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Chiranjit Das",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nCarbon cycle processes\n\n\nGlobal warming and its interlinkages\n\n\nRegional-scale dynamics of greenhouse gases (CO2, CH4, N2O)\n\n\nCarbon-climate interactions"
   }
 ]
