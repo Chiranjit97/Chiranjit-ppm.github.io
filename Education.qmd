@@ -1,0 +1,50 @@
+---
+title: ""
+---
+
+<div class="education-header">
+
+# Education
+
+</div>
+
+
+<div class="education-container">
+
+<div class="education-card">
+
+### Ph.D., 2020–2025
+
+**Atmonsperic Science**  
+Centre for Atmospheric Science
+
+**Indian Institute of Technology Delhi**
+
+</div>
+
+
+<div class="education-card">
+
+
+### M.Sc, 2018–2020
+
+**Atmospheric Science**  
+Department of Earth and Atmospheric Sciences
+
+**National Institute of Technology, Rourkela**
+
+</div>
+
+<div class="education-card">
+
+
+### B.Sc, 2015–2018
+
+**Department of Physics**
+
+**Barasat Goverment College**  
+Barasat, West Bengal
+
+</div>
+
+</div>
