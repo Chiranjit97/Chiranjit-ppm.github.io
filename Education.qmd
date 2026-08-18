@@ -24,7 +24,7 @@ Centre for Atmospheric Science
 
 
 <div class="education-card">
-
+<img src="img/iit.png">
 
 ### M.Sc, 2018–2020
 
@@ -36,7 +36,7 @@ Department of Earth and Atmospheric Sciences
 </div>
 
 <div class="education-card">
-
+<img src="img/nit.png">
 
 ### B.Sc, 2015–2018
 
@@ -46,5 +46,8 @@ Department of Earth and Atmospheric Sciences
 Barasat, West Bengal
 
 </div>
+
+<div class="education-card">
+<img src="img/bgc.png">
 
 </div>
